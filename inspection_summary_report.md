@@ -74,7 +74,7 @@
 	- Issue 18 an untraceable issue in section 5.2 with is about both software interface SIS and SNU are missing what happens when the system is down
 	- Issue 23 an ambiguous issue in the business rules br5 which is what do they mean by same grant and what exactly are they referring to, when do the 2 years start, is this referring to business cycle, start of calendar year, or 2 year when rewarded.
 - Repeated patterns
-	- Citations that dont back up claims (Issues 2,4,8)
+	- Citations that dont back up claims (Issues 4,8)
 	- file headers done match body (issues 10,11,15,21)
 	- diagrams not matching use case (issues 5,14,16)
 	- unclear status (issues 6,9,12)
